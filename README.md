@@ -1,4 +1,4 @@
-# homework06
+Weather App!
 
 In this activiy we were to Create a weather application
 
