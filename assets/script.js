@@ -40,7 +40,6 @@ function get5dayforcast (cityName){
 
 }
 
-
 searchbutton.addEventListener ("click",function(event){
     event.preventDefault()
     var cityName = document.getElementById("city-name").value
